@@ -1,0 +1,177 @@
+homes:
+  229c4323-2bd7-3071-88e0-bc2a6c10934f:
+    SG9tZSAx:
+      slot: Home 1
+      name: Home 1
+      world: world
+      x: -2438.7052419354964
+      y: 116.5
+      z: 8483.642382744121
+      yaw: -92.399994
+      pitch: -1.9500628
+  dda2f9f7-1d27-3397-9a4d-5f972ad67cbf:
+    SG9tZSAx:
+      slot: Home 1
+      name: base
+      world: world
+      x: 10063.040330277454
+      y: 13.0
+      z: 9996.699999988079
+      yaw: -170.74977
+      pitch: 40.099937
+  fe070e2f-361c-3a57-bd3d-fac585c1c350:
+    SG9tZSAx:
+      slot: Home 1
+      name: '1'
+      world: world
+      x: 3818.6942161225925
+      y: 64.0
+      z: -5675.01768005455
+      yaw: 82.65137
+      pitch: 19.950008
+    SG9tZSAy:
+      slot: Home 2
+      name: trial
+      world: world
+      x: 247.30000001192093
+      y: 21.0
+      z: 107.57036242139357
+      yaw: -164.9913
+      pitch: 89.32837
+  92baec20-cde7-3969-819a-046461c9bafd:
+    SG9tZSAx:
+      slot: Home 1
+      name: sprucevillage
+      world: world
+      x: 1466.1556658925504
+      y: 67.0
+      z: -3750.296850679725
+      yaw: -93.00015
+      pitch: 18.150003
+  eff0f4df-6bc7-3eee-ba13-44dc7b1b3659:
+    SG9tZSAx:
+      slot: Home 1
+      name: base
+      world: world
+      x: 2808.5413029622155
+      y: 38.0
+      z: -9323.523480046822
+      yaw: -2.2507324
+      pitch: 90.0
+  0b76e20c-b0c8-31a4-947d-f13e4907a2a4:
+    SG9tZSAx:
+      slot: Home 1
+      name: home
+      world: world
+      x: 1601.4587672118435
+      y: 126.0
+      z: -1776.8708082861967
+      yaw: 87.787964
+      pitch: 28.685152
+  a1a62d60-768e-392f-901a-90bf71a92e49:
+    SG9tZSAy:
+      slot: Home 2
+      name: dalright
+      world: world
+      x: -1446.3577421326652
+      y: 70.9375
+      z: -6866.120013640385
+      yaw: -93.7001
+      pitch: 25.150013
+    SG9tZSAx:
+      slot: Home 1
+      name: Home 1
+      world: world
+      x: 1601.1514417456347
+      y: 126.0
+      z: -1776.8113216206073
+      yaw: -83.99341
+      pitch: 15.810008
+  1858c3b9-4eea-3505-a9ef-44366c374d06:
+    SG9tZSAx:
+      slot: Home 1
+      name: home
+      world: world
+      x: -1442.662333880194
+      y: 71.0
+      z: -6858.837990553031
+      yaw: 145.65994
+      pitch: 10.015366
+  7f83f4b8-135d-3a63-a8e4-ad9ee3b3c214:
+    SG9tZSAx:
+      slot: Home 1
+      name: Home 1
+      world: world
+      x: -1438.5163006982466
+      y: 72.0
+      z: -6875.3123163904775
+      yaw: -116.8983
+      pitch: 24.243513
+  92555690-0e41-359c-89d9-e03cb3569a26:
+    SG9tZSAx:
+      slot: Home 1
+      name: base
+      world: world_the_end
+      x: -1811.3263126494428
+      y: 54.0
+      z: -2777.5601576955287
+      yaw: -3.0517578E-4
+      pitch: 26.399992
+  c9ae1860-b9c7-37e8-bd60-6864230add8c:
+    SG9tZSAx:
+      slot: Home 1
+      name: Home 1
+      world: world
+      x: -23.077638410680937
+      y: 73.0
+      z: -134.42961654831785
+      yaw: -1.8017578
+      pitch: 1.0500222
+    SG9tZSAy:
+      slot: Home 2
+      name: Home 2
+      world: world
+      x: 3821.5130634573707
+      y: 64.875
+      z: -5677.317085316956
+      yaw: 93.01007
+      pitch: 2.646924
+  55cad212-6f7a-3b71-a6d9-5811621afc6f:
+    SG9tZSAx:
+      slot: Home 1
+      name: trial
+      world: world
+      x: 7197.114984313388
+      y: -17.0
+      z: -1359.1838644870543
+      yaw: 153.04779
+      pitch: 18.299967
+  db0aa64f-5d64-3e8e-8fc3-e70b7caa7064:
+    SG9tZSAx:
+      slot: Home 1
+      name: e
+      world: world
+      x: 3068.7784696441668
+      y: 176.0
+      z: -1259.0437120124068
+      yaw: 167.05597
+      pitch: 37.642887
+    SG9tZSAy:
+      slot: Home 2
+      name: 10k
+      world: world
+      x: 10095.300000011921
+      y: 63.0
+      z: -340.3551405866429
+      yaw: -163.91333
+      pitch: 48.56644
+  9087a8d4-4015-3f52-b86a-564ad7893670:
+    SG9tZSAx:
+      slot: Home 1
+      name: Home 1
+      world: cpvp
+      x: 182.46868783732316
+      y: 33.0
+      z: -256.9203206565589
+      yaw: 89.78283
+      pitch: 20.680061

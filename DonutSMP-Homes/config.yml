@@ -1,0 +1,10 @@
+# Number of homes available to players without a rank.
+home-limits:
+  default: 2
+
+  # The highest limit from all permissions owned by a player is used.
+  # You can change permission names and limits here.
+  permissions:
+    donutsmphomes.limit.3: 3
+    donutsmphomes.limit.4: 4
+    donutsmphomes.limit.5: 5
